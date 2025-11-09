@@ -1,4 +1,4 @@
-package org.school.equipment.lending.SchoolEquipmentLendingApplication;
+package org.school.equipment.lending;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
